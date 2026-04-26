@@ -1,4 +1,4 @@
-// Second Largest and Second Smallest in an array
+package Array_Easy;// Second Largest and Second Smallest in an array
 
 import java.util.Scanner;
 public  class SecondLargest_SecondSmallest {
@@ -7,6 +7,7 @@ public  class SecondLargest_SecondSmallest {
         int small=Integer.MAX_VALUE;
         int Second_Small=Integer.MAX_VALUE;
         for(int i=0;i<n;i++){
+
             if(arr[i]< small)
             {
                 Second_Small=small;
