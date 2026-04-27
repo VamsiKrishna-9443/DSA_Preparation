@@ -22,6 +22,50 @@
 
 ---
 
+## 📊 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VamsiKrishna_1906?theme=dark&font=baloo&ext=heatmap" />
+</p>
+
+---
+
+## 🧩 Visualize Your Code (Very Important)
+
+Understanding DSA is not just about writing code — it's about **seeing how it works internally**.
+
+🔗 https://pythontutor.com/java.html#mode=edit
+
+### 🚀 Why Use This?
+
+* 🔍 Visualize code execution line-by-line
+* 🔁 Understand recursion (call stack clearly)
+* 🔗 Track pointer changes (Linked List, Trees)
+* 🐞 Debug mistakes faster
+
+---
+
+### 💡 Best Use Cases
+
+* 🔁 Recursion & Backtracking
+* 🔍 Binary Search & Searching Algorithms
+* 📊 Sorting Algorithms
+* 🔗 Linked List Operations
+* 🧠 Stack & Queue Problems
+* 🌳 Trees & Graph Traversals
+* 🐞 Debugging complex logic
+
+---
+
+### 📌 How to Use
+
+1. Paste your code
+2. Click **Visualize Execution**
+3. Step through using **Next ▶️**
+4. Predict before each step (very important)
+
+---
+
 ## 📚 Topics Covered
 
 ### 🟢 Basics
@@ -85,26 +129,27 @@ DSA_Preparation/
 
 ---
 
-## 🧠 How I Practice
+## 🧠 My Practice Strategy
 
-* Solve problems from Striver Sheet
-* Write clean Java code
-* Focus on logic + optimization
-* Revise weekly
+1. Solve problems from Striver Sheet
+2. Focus on understanding logic (not memorizing)
+3. Optimize solution (Time & Space Complexity)
+4. Visualize tricky problems
+5. Revise weekly
 
 ---
 
-## 💡 Goal
+## 🎯 Goal
 
 * Build strong problem-solving skills
 * Improve coding speed
-* Prepare for interviews
+* Crack product-based companies
 
 ---
 
 ## 📌 Note
 
-This repository is updated **daily with new problems and solutions**.
+This repository is updated **daily** with new problems and solutions.
 
 ---
 
@@ -114,4 +159,4 @@ This repository is updated **daily with new problems and solutions**.
 
 ---
 
-⭐️ If you like this repo, give it a star!
+⭐️ If you find this helpful, consider giving it a star!
