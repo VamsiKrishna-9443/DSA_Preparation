@@ -22,9 +22,13 @@
 
 ---
 
+---
+
 ## 📊 LeetCode Stats
 
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-View%20Profile-orange?logo=leetcode)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/VamsiKrishna_1906?theme=dark&font=baloo&ext=heatmap" />
+</p>
 
 ## 📚 Topics Covered
 
