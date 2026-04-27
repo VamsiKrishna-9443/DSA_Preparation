@@ -22,6 +22,10 @@
 
 ---
 
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://img.shields.io/badge/LeetCode-View%20Profile-orange?logo=leetcode)
+
 ## 📚 Topics Covered
 
 ### 🟢 Basics
