@@ -2,11 +2,11 @@ class Node3 {
     int data;
     Node3 next;
 
-    Node3(int data1,Node3 next1)
-    {
+    Node3(int data1, Node3 next1) {
         this.data = data1;
         this.next = next1;
     }
+
     Node3(int data1) {
         this.data = data1;
         this.next = null;
@@ -37,26 +37,23 @@ public class DetectLOOP_LinkedList {
             fast = fast.next.next;
 
             if (slow == fast) {
-                return true; // loop detected
+                return true;
             }
         }
-        return false; // no loop
+        return false;
     }
 
     public static void main(String[] args) {
         int[] arr = {1, 3, 4, 5, 6};
         Node3 head = ConvertArr2LL(arr);
 
-        // 🔁 Create loop: last node → points to 3rd node (value 4)
+        // create loop
         Node3 temp = head;
         while (temp.next != null) {
             temp = temp.next;
         }
-        temp.next = head.next.next; // loop created
+        temp.next = head.next.next;
 
-        // ❗ Do NOT print the list here (infinite loop)
-
-        // Detect loop
         if (detectLoop(head)) {
             System.out.println("Loop detected");
         } else {
